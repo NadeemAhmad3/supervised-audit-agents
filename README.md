@@ -1,6 +1,3 @@
-Here is a complete, stylish, and highly detailed `README.md` designed for an enterprise-grade repository. You can copy the code block below and paste it directly into your GitHub repository.
-
-```markdown
 # 🛡️ FinGuard-MAS: Autonomous Enterprise Financial Auditing
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
