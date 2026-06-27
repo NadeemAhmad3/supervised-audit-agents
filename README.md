@@ -71,7 +71,7 @@ The core of FinGuard-MAS consists of a base agent swarm and the overriding super
 
 1. **Clone the repository:**
 ```bash
-git clone [https://github.com/yourusername/finguard-mas.git](https://github.com/yourusername/finguard-mas.git)
+git clone https://github.com/NadeemAhmad3/supervised-audit-agents.git
 cd finguard-mas
 
 ```
